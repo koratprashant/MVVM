@@ -2,12 +2,12 @@
 //  TictactoeUITestsLaunchTests.swift
 //  TictactoeUITests
 //
-//  Created by korat prashant on 22/10/22.
+//  Created by korat prashant on 26/07/22.
 //
 
 import XCTest
 
-final class TictactoeUITestsLaunchTests: XCTestCase {
+class TictactoeUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

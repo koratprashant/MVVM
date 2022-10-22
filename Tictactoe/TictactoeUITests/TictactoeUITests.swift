@@ -2,12 +2,12 @@
 //  TictactoeUITests.swift
 //  TictactoeUITests
 //
-//  Created by korat prashant on 22/10/22.
+//  Created by korat prashant on 26/07/22.
 //
 
 import XCTest
 
-final class TictactoeUITests: XCTestCase {
+class TictactoeUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

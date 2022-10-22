@@ -1,7 +1,8 @@
 #  MVVM using SwiftUI with the Combine Framework
 
 ## How MVVM works?
-    ![MVVM](MVVM.jpg)
+    ![MVVM](https://user-images.githubusercontent.com/35185482/197337663-4c74da96-d698-4345-ae2c-d5a5913af3b4.jpg)
+    
 ### Model
 - It contains data as well as logic
 - It should be UI agnostic
